@@ -1,0 +1,5 @@
+<root>
+  <item name='java.sql.CallableStatement java.lang.String getString(java.lang.String)'>
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
